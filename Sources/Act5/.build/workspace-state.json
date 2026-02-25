@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "act5",
+          "kind" : "fileSystem",
+          "location" : "/home/daniel/docs/tec/2026/redes2/swift/Act5/Sources/Act5",
+          "name" : "Act5"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/home/daniel/docs/tec/2026/redes2/swift/Act5/Sources/Act5"
+        },
+        "subpath" : "act5"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
